@@ -14,3 +14,7 @@
 
 ## UNTUK TERMUX & PANEL
 Download sc nya [disini](https://github.com/zeeoneofficial/bot-wa-confess/archive/refs/heads/confess.zip)
+
+## NOTE!! 
+UBAH FILE CUMA DI setting.js
+JANGAN DI OTAK-ATIK BIAR GA ERROR.
