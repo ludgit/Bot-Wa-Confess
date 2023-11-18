@@ -1,3 +1,5 @@
+//Sorry di Enc, Yang Perlu Diubah Cuma Di setting.js aja
+
 function _0x29e7(_0x29fdcd, _0x534729) {
     const _0x53b9df = _0x8fa9();
     return _0x29e7 = function (_0x18e58a, _0x3d7f22) {
