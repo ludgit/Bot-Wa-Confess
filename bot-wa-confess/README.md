@@ -2,7 +2,7 @@
 > **Note** : Bot ini saya buat khusus untuk confess saja. Dan saya sarankan untuk menginstal bot ini pada replit, panel atau termux. Agar database confess nya tidak terhapus pada saat bot ke restart.
 
 ## UNTUK REPLIT
-[![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/bot-confess-wa)](https://repl.it/github/zeeoneofficial/bot-confess-wa)
+[![Run on Repl.it](https://replit.com/badge/github/ludgit/Bot-Wa-Confess)](https://replit.com/github/ludgit/Bot-Wa-Confess)
 ------
 
 <p align="center">
