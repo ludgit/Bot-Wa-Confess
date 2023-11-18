@@ -7,7 +7,8 @@ global.help = {
 Menu(pushname){
   return `Halo ${pushname}
 
-Saya adalah BOT WhatsApp khusus confess 👋 ketik .confess untuk memulai chat.
+Saya adalah BOT WhatsApp khusus confess 👋
+ketik .confess untuk memulai chat.
 `
 }
 }
